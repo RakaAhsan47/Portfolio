@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.791661in" height="0.791661in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 791.24 791.24"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#F4B609;fill-rule:nonzero}
+    .fil2 {fill:white}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+    <clipPath id="id0" style="clip-rule:nonzero">
+     <path d="M187.4 603.84l416.44 0 0 -416.44 -416.44 0 0 416.44z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2560159744832">
+   <circle class="fil0" cx="395.62" cy="395.62" r="395.62"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <path class="fil1" d="M589.1 232.36l-85.81 -41.31c-9.93,-4.78 -21.8,-2.77 -29.59,5.03l-280.9 256.12c-7.56,6.89 -7.55,18.78 0.02,25.66l22.94 20.86c6.18,5.62 15.5,6.04 22.16,0.98l338.27 -256.62c11.35,-8.61 27.65,-0.52 27.65,13.73l0 -1c0,-10 -5.73,-19.11 -14.74,-23.45z"/>
+     <path class="fil1" d="M589.1 558.89l-85.81 41.31c-9.93,4.78 -21.8,2.77 -29.59,-5.03l-280.9 -256.11c-7.56,-6.89 -7.55,-18.79 0.02,-25.66l22.94 -20.86c6.18,-5.62 15.5,-6.04 22.16,-0.98l338.27 256.62c11.35,8.61 27.65,0.52 27.65,-13.73l0 1c0,10 -5.73,19.12 -14.74,23.45z" filter="url(#filter0_d_2123_56547)"/>
+     <path class="fil1" d="M503.31 600.21c-9.94,4.78 -21.8,2.76 -29.6,-5.04 9.61,9.6 26.03,2.8 26.03,-10.78l0 -377.53c0,-13.58 -16.42,-20.39 -26.03,-10.78 7.8,-7.8 19.66,-9.81 29.6,-5.04l85.79 41.26c9.01,4.33 14.75,13.45 14.75,23.46l0 279.74c0,10 -5.73,19.12 -14.75,23.46l-85.79 41.26z" filter="url(#filter1_d_2123_56547)"/>
+     <path class="fil2" d="M482.45 601c6.56,2.55 14.04,2.39 20.66,-0.79l85.74 -41.26c9.01,-4.33 14.74,-13.45 14.74,-23.46l0 -279.74c0,-10 -5.73,-19.12 -14.74,-23.46l-85.74 -41.26c-8.69,-4.18 -18.86,-3.16 -26.48,2.38 -1.09,0.79 -2.13,1.68 -3.1,2.65l-164.14 149.75 -71.5 -54.27c-6.65,-5.05 -15.96,-4.64 -22.15,0.99l-22.93 20.86c-7.56,6.88 -7.57,18.77 -0.02,25.66l62 56.57 -62 56.56c-7.55,6.89 -7.54,18.79 0.02,25.66l22.93 20.86c6.18,5.62 15.49,6.04 22.15,0.98l71.5 -54.27 164.14 149.75c2.6,2.6 5.64,4.55 8.92,5.83zm17.09 -299.92l-124.54 94.54 124.54 94.54 0 -189.07z"/>
+    </g>
+   </g>
+   <polygon class="fil3" points="187.4,603.84 603.84,603.84 603.84,187.4 187.4,187.4 "/>
+  </g>
+ </g>
+</svg>
